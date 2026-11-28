@@ -1,0 +1,733 @@
+id,modello,quota_modello
+dpc-acri,BOLAM,749
+dpc-acri,MOLOCH,777
+dpc-acri,WRF CIMA,798
+dpc-acri,WRF ItaliaMeteo,727
+dpc-albi,BOLAM,1278
+dpc-albi,MOLOCH,959
+dpc-albi,WRF CIMA,927
+dpc-albi,WRF ItaliaMeteo,910
+dpc-albidona,BOLAM,702
+dpc-albidona,MOLOCH,495
+dpc-albidona,WRF CIMA,617
+dpc-albidona,WRF ItaliaMeteo,628
+dpc-allai,BOLAM,844
+dpc-allai,MOLOCH,820
+dpc-allai,WRF CIMA,803
+dpc-allai,WRF ItaliaMeteo,813
+dpc-altilia,BOLAM,486
+dpc-altilia,MOLOCH,243
+dpc-altilia,WRF CIMA,262
+dpc-altilia,WRF ItaliaMeteo,310
+dpc-amantea,BOLAM,180
+dpc-amantea,MOLOCH,109
+dpc-amantea,WRF CIMA,203
+dpc-amantea,WRF ItaliaMeteo,203
+dpc-antonimina,BOLAM,274
+dpc-antonimina,MOLOCH,550
+dpc-antonimina,WRF CIMA,464
+dpc-antonimina,WRF ItaliaMeteo,446
+dpc-arasi,BOLAM,987
+dpc-arasi,MOLOCH,547
+dpc-arasi,WRF CIMA,560
+dpc-arasi,WRF ItaliaMeteo,636
+dpc-ardore,BOLAM,122
+dpc-ardore,MOLOCH,220
+dpc-ardore,WRF CIMA,249
+dpc-ardore,WRF ItaliaMeteo,273
+dpc-arena,BOLAM,481
+dpc-arena,MOLOCH,523
+dpc-arena,WRF CIMA,482
+dpc-arena,WRF ItaliaMeteo,543
+dpc-bagnara-calabra,BOLAM,300
+dpc-bagnara-calabra,MOLOCH,155
+dpc-bagnara-calabra,WRF CIMA,42
+dpc-bagnara-calabra,WRF ItaliaMeteo,124
+dpc-belsito,BOLAM,698
+dpc-belsito,MOLOCH,687
+dpc-belsito,WRF CIMA,704
+dpc-belsito,WRF ItaliaMeteo,690
+dpc-belvedere-marittimo,BOLAM,23
+dpc-belvedere-marittimo,MOLOCH,43
+dpc-belvedere-marittimo,WRF CIMA,152
+dpc-belvedere-marittimo,WRF ItaliaMeteo,77
+dpc-botricello,BOLAM,131
+dpc-botricello,MOLOCH,56
+dpc-botricello,WRF CIMA,48
+dpc-botricello,WRF ItaliaMeteo,56
+dpc-botte-donato,BOLAM,1362
+dpc-botte-donato,MOLOCH,1568
+dpc-botte-donato,WRF CIMA,1573
+dpc-botte-donato,WRF ItaliaMeteo,1509
+dpc-bova-superiore,BOLAM,309
+dpc-bova-superiore,MOLOCH,744
+dpc-bova-superiore,WRF CIMA,741
+dpc-bova-superiore,WRF ItaliaMeteo,546
+dpc-bovalino-marina,BOLAM,122
+dpc-bovalino-marina,MOLOCH,31
+dpc-bovalino-marina,WRF CIMA,29
+dpc-bovalino-marina,WRF ItaliaMeteo,26
+dpc-campo-tenese,BOLAM,888
+dpc-campo-tenese,MOLOCH,996
+dpc-campo-tenese,WRF CIMA,1014
+dpc-campo-tenese,WRF ItaliaMeteo,1039
+dpc-canolo-nuovo,BOLAM,607
+dpc-canolo-nuovo,MOLOCH,923
+dpc-canolo-nuovo,WRF CIMA,892
+dpc-canolo-nuovo,WRF ItaliaMeteo,843
+dpc-capo-vaticano,BOLAM,45
+dpc-capo-vaticano,MOLOCH,110
+dpc-capo-vaticano,WRF CIMA,34
+dpc-capo-vaticano,WRF ItaliaMeteo,80
+dpc-cardeto,BOLAM,987
+dpc-cardeto,MOLOCH,1263
+dpc-cardeto,WRF CIMA,1222
+dpc-cardeto,WRF ItaliaMeteo,1286
+dpc-cariati,BOLAM,74
+dpc-cariati,MOLOCH,43
+dpc-cariati,WRF CIMA,10
+dpc-cariati,WRF ItaliaMeteo,79
+dpc-cassano-jonico,BOLAM,179
+dpc-cassano-jonico,MOLOCH,192
+dpc-cassano-jonico,WRF CIMA,327
+dpc-cassano-jonico,WRF ItaliaMeteo,213
+dpc-cassari,BOLAM,807
+dpc-cassari,MOLOCH,1038
+dpc-cassari,WRF CIMA,1073
+dpc-cassari,WRF ItaliaMeteo,1056
+dpc-castrovillari,BOLAM,279
+dpc-castrovillari,MOLOCH,382
+dpc-castrovillari,WRF CIMA,400
+dpc-castrovillari,WRF ItaliaMeteo,410
+dpc-castrovillari-camerata,BOLAM,179
+dpc-castrovillari-camerata,MOLOCH,75
+dpc-castrovillari-camerata,WRF CIMA,72
+dpc-castrovillari-camerata,WRF ItaliaMeteo,73
+dpc-catanzaro,BOLAM,223
+dpc-catanzaro,MOLOCH,338
+dpc-catanzaro,WRF CIMA,380
+dpc-catanzaro,WRF ItaliaMeteo,331
+dpc-cecita,BOLAM,1368
+dpc-cecita,MOLOCH,1175
+dpc-cecita,WRF CIMA,1204
+dpc-cecita,WRF ItaliaMeteo,1232
+dpc-cenadi-serralta,BOLAM,545
+dpc-cenadi-serralta,MOLOCH,677
+dpc-cenadi-serralta,WRF CIMA,696
+dpc-cenadi-serralta,WRF ItaliaMeteo,721
+dpc-cerchiara-di-calabria,BOLAM,244
+dpc-cerchiara-di-calabria,MOLOCH,819
+dpc-cerchiara-di-calabria,WRF CIMA,630
+dpc-cerchiara-di-calabria,WRF ItaliaMeteo,698
+dpc-cetraro-superiore,BOLAM,286
+dpc-cetraro-superiore,MOLOCH,89
+dpc-cetraro-superiore,WRF CIMA,205
+dpc-cetraro-superiore,WRF ItaliaMeteo,50
+dpc-chiaravalle,BOLAM,540
+dpc-chiaravalle,MOLOCH,489
+dpc-chiaravalle,WRF CIMA,502
+dpc-chiaravalle,WRF ItaliaMeteo,505
+dpc-ciro-marina,BOLAM,5
+dpc-ciro-marina,MOLOCH,24
+dpc-ciro-marina,WRF CIMA,27
+dpc-ciro-marina,WRF ItaliaMeteo,25
+dpc-cittanova,BOLAM,593
+dpc-cittanova,MOLOCH,429
+dpc-cittanova,WRF CIMA,365
+dpc-cittanova,WRF ItaliaMeteo,397
+dpc-corbino,BOLAM,668
+dpc-corbino,MOLOCH,597
+dpc-corbino,WRF CIMA,724
+dpc-corbino,WRF ItaliaMeteo,618
+dpc-corigliano-calabro,BOLAM,275
+dpc-corigliano-calabro,MOLOCH,373
+dpc-corigliano-calabro,WRF CIMA,477
+dpc-corigliano-calabro,WRF ItaliaMeteo,359
+dpc-cortale,BOLAM,329
+dpc-cortale,MOLOCH,380
+dpc-cortale,WRF CIMA,342
+dpc-cortale,WRF ItaliaMeteo,396
+dpc-cosenza-118,BOLAM,357
+dpc-cosenza-118,MOLOCH,293
+dpc-cosenza-118,WRF CIMA,315
+dpc-cosenza-118,WRF ItaliaMeteo,308
+dpc-cosenza-crati,BOLAM,357
+dpc-cosenza-crati,MOLOCH,388
+dpc-cosenza-crati,WRF CIMA,340
+dpc-cosenza-crati,WRF ItaliaMeteo,317
+dpc-cotronei,BOLAM,931
+dpc-cotronei,MOLOCH,529
+dpc-cotronei,WRF CIMA,569
+dpc-cotronei,WRF ItaliaMeteo,449
+dpc-cropalati,BOLAM,296
+dpc-cropalati,MOLOCH,181
+dpc-cropalati,WRF CIMA,216
+dpc-cropalati,WRF ItaliaMeteo,175
+dpc-cropani,BOLAM,131
+dpc-cropani,MOLOCH,294
+dpc-cropani,WRF CIMA,330
+dpc-cropani,WRF ItaliaMeteo,225
+dpc-crotone-molo-giunti,BOLAM,9
+dpc-crotone-molo-giunti,MOLOCH,7
+dpc-crotone-molo-giunti,WRF CIMA,1
+dpc-crotone-molo-giunti,WRF ItaliaMeteo,0
+dpc-crucoli,BOLAM,179
+dpc-crucoli,MOLOCH,165
+dpc-crucoli,WRF CIMA,199
+dpc-crucoli,WRF ItaliaMeteo,230
+dpc-cutro,BOLAM,127
+dpc-cutro,MOLOCH,158
+dpc-cutro,WRF CIMA,132
+dpc-cutro,WRF ItaliaMeteo,124
+dpc-decollatura,BOLAM,740
+dpc-decollatura,MOLOCH,826
+dpc-decollatura,WRF CIMA,1007
+dpc-decollatura,WRF ItaliaMeteo,930
+dpc-domanico,BOLAM,855
+dpc-domanico,MOLOCH,847
+dpc-domanico,WRF CIMA,871
+dpc-domanico,WRF ItaliaMeteo,906
+dpc-fabrizia,BOLAM,967
+dpc-fabrizia,MOLOCH,962
+dpc-fabrizia,WRF CIMA,984
+dpc-fabrizia,WRF ItaliaMeteo,951
+dpc-feroleto,BOLAM,317
+dpc-feroleto,MOLOCH,120
+dpc-feroleto,WRF CIMA,116
+dpc-feroleto,WRF ItaliaMeteo,99
+dpc-filadelfia,BOLAM,545
+dpc-filadelfia,MOLOCH,397
+dpc-filadelfia,WRF CIMA,359
+dpc-filadelfia,WRF ItaliaMeteo,447
+dpc-fitterizzi-meteo,BOLAM,160
+dpc-fitterizzi-meteo,MOLOCH,195
+dpc-fitterizzi-meteo,WRF CIMA,206
+dpc-fitterizzi-meteo,WRF ItaliaMeteo,203
+dpc-gambarie,BOLAM,872
+dpc-gambarie,MOLOCH,1146
+dpc-gambarie,WRF CIMA,1132
+dpc-gambarie,WRF ItaliaMeteo,1128
+dpc-giffone,BOLAM,343
+dpc-giffone,MOLOCH,456
+dpc-giffone,WRF CIMA,500
+dpc-giffone,WRF ItaliaMeteo,503
+dpc-gimigliano,BOLAM,668
+dpc-gimigliano,MOLOCH,590
+dpc-gimigliano,WRF CIMA,620
+dpc-gimigliano,WRF ItaliaMeteo,590
+dpc-gioia-tauro-ss18,BOLAM,41
+dpc-gioia-tauro-ss18,MOLOCH,9
+dpc-gioia-tauro-ss18,WRF CIMA,15
+dpc-gioia-tauro-ss18,WRF ItaliaMeteo,8
+dpc-gioiosa-ionica,BOLAM,205
+dpc-gioiosa-ionica,MOLOCH,17
+dpc-gioiosa-ionica,WRF CIMA,34
+dpc-gioiosa-ionica,WRF ItaliaMeteo,31
+dpc-isola-capo-rizzuto,BOLAM,96
+dpc-isola-capo-rizzuto,MOLOCH,91
+dpc-isola-capo-rizzuto,WRF CIMA,108
+dpc-isola-capo-rizzuto,WRF ItaliaMeteo,93
+dpc-joppolo,BOLAM,278
+dpc-joppolo,MOLOCH,61
+dpc-joppolo,WRF CIMA,149
+dpc-joppolo,WRF ItaliaMeteo,205
+dpc-laino-borgo,BOLAM,564
+dpc-laino-borgo,MOLOCH,374
+dpc-laino-borgo,WRF CIMA,329
+dpc-laino-borgo,WRF ItaliaMeteo,354
+dpc-lamezia,BOLAM,10
+dpc-lamezia,MOLOCH,7
+dpc-lamezia,WRF CIMA,5
+dpc-lamezia,WRF ItaliaMeteo,6
+dpc-licciardi,BOLAM,104
+dpc-licciardi,MOLOCH,58
+dpc-licciardi,WRF CIMA,55
+dpc-licciardi,WRF ItaliaMeteo,70
+dpc-limina,BOLAM,807
+dpc-limina,MOLOCH,723
+dpc-limina,WRF CIMA,728
+dpc-limina,WRF ItaliaMeteo,742
+dpc-locri,BOLAM,43
+dpc-locri,MOLOCH,14
+dpc-locri,WRF CIMA,37
+dpc-locri,WRF ItaliaMeteo,19
+dpc-longobucco,BOLAM,1240
+dpc-longobucco,MOLOCH,1090
+dpc-longobucco,WRF CIMA,957
+dpc-longobucco,WRF ItaliaMeteo,986
+dpc-lungro,BOLAM,938
+dpc-lungro,MOLOCH,688
+dpc-lungro,WRF CIMA,618
+dpc-lungro,WRF ItaliaMeteo,643
+dpc-maierato,BOLAM,211
+dpc-maierato,MOLOCH,255
+dpc-maierato,WRF CIMA,252
+dpc-maierato,WRF ItaliaMeteo,250
+dpc-martirano,BOLAM,486
+dpc-martirano,MOLOCH,267
+dpc-martirano,WRF CIMA,252
+dpc-martirano,WRF ItaliaMeteo,322
+dpc-mileto,BOLAM,268
+dpc-mileto,MOLOCH,315
+dpc-mileto,WRF CIMA,334
+dpc-mileto,WRF ItaliaMeteo,323
+dpc-molochio,BOLAM,547
+dpc-molochio,MOLOCH,366
+dpc-molochio,WRF CIMA,405
+dpc-molochio,WRF ItaliaMeteo,383
+dpc-mongiana-p,BOLAM,968
+dpc-mongiana-p,MOLOCH,950
+dpc-mongiana-p,WRF CIMA,946
+dpc-mongiana-p,WRF ItaliaMeteo,977
+dpc-montalto-uffugo,BOLAM,736
+dpc-montalto-uffugo,MOLOCH,735
+dpc-montalto-uffugo,WRF CIMA,640
+dpc-montalto-uffugo,WRF ItaliaMeteo,616
+dpc-monte-curcio-camigl,BOLAM,1576
+dpc-monte-curcio-camigl,MOLOCH,1572
+dpc-monte-curcio-camigl,WRF CIMA,1483
+dpc-monte-curcio-camigl,WRF ItaliaMeteo,1657
+dpc-monte-scrisi,BOLAM,304
+dpc-monte-scrisi,MOLOCH,343
+dpc-monte-scrisi,WRF CIMA,267
+dpc-monte-scrisi,WRF ItaliaMeteo,510
+dpc-montebello-ionico,BOLAM,226
+dpc-montebello-ionico,MOLOCH,464
+dpc-montebello-ionico,WRF CIMA,365
+dpc-montebello-ionico,WRF ItaliaMeteo,504
+dpc-mormanno,BOLAM,1125
+dpc-mormanno,MOLOCH,882
+dpc-mormanno,WRF CIMA,851
+dpc-mormanno,WRF ItaliaMeteo,855
+dpc-nicastro,BOLAM,740
+dpc-nicastro,MOLOCH,415
+dpc-nicastro,WRF CIMA,481
+dpc-nicastro,WRF ItaliaMeteo,508
+dpc-nocelle-arvo,BOLAM,1444
+dpc-nocelle-arvo,MOLOCH,1368
+dpc-nocelle-arvo,WRF CIMA,1433
+dpc-nocelle-arvo,WRF ItaliaMeteo,1336
+dpc-oriolo,BOLAM,508
+dpc-oriolo,MOLOCH,529
+dpc-oriolo,WRF CIMA,457
+dpc-oriolo,WRF ItaliaMeteo,558
+dpc-pagliarelle,BOLAM,931
+dpc-pagliarelle,MOLOCH,871
+dpc-pagliarelle,WRF CIMA,887
+dpc-pagliarelle,WRF ItaliaMeteo,787
+dpc-palermiti,BOLAM,666
+dpc-palermiti,MOLOCH,668
+dpc-palermiti,WRF CIMA,550
+dpc-palermiti,WRF ItaliaMeteo,627
+dpc-palmi,BOLAM,163
+dpc-palmi,MOLOCH,259
+dpc-palmi,WRF CIMA,231
+dpc-palmi,WRF ItaliaMeteo,321
+dpc-paola,BOLAM,736
+dpc-paola,MOLOCH,71
+dpc-paola,WRF CIMA,119
+dpc-paola,WRF ItaliaMeteo,35
+dpc-papanice,BOLAM,90
+dpc-papanice,MOLOCH,68
+dpc-papanice,WRF CIMA,66
+dpc-papanice,WRF ItaliaMeteo,64
+dpc-papasidero,BOLAM,656
+dpc-papasidero,MOLOCH,264
+dpc-papasidero,WRF CIMA,278
+dpc-papasidero,WRF ItaliaMeteo,420
+dpc-parenti,BOLAM,810
+dpc-parenti,MOLOCH,850
+dpc-parenti,WRF CIMA,887
+dpc-parenti,WRF ItaliaMeteo,951
+dpc-petilia-policastro,BOLAM,931
+dpc-petilia-policastro,MOLOCH,650
+dpc-petilia-policastro,WRF CIMA,729
+dpc-petilia-policastro,WRF ItaliaMeteo,592
+dpc-petrona,BOLAM,1026
+dpc-petrona,MOLOCH,886
+dpc-petrona,WRF CIMA,869
+dpc-petrona,WRF ItaliaMeteo,867
+dpc-pietrastorta,BOLAM,300
+dpc-pietrastorta,MOLOCH,192
+dpc-pietrastorta,WRF CIMA,214
+dpc-pietrastorta,WRF ItaliaMeteo,256
+dpc-pizzoni,BOLAM,259
+dpc-pizzoni,MOLOCH,293
+dpc-pizzoni,WRF CIMA,295
+dpc-pizzoni,WRF ItaliaMeteo,319
+dpc-plati,BOLAM,296
+dpc-plati,MOLOCH,368
+dpc-plati,WRF CIMA,362
+dpc-plati,WRF ItaliaMeteo,550
+dpc-polistena,BOLAM,343
+dpc-polistena,MOLOCH,267
+dpc-polistena,WRF CIMA,259
+dpc-polistena,WRF ItaliaMeteo,265
+dpc-ponte-vecchio,BOLAM,163
+dpc-ponte-vecchio,MOLOCH,53
+dpc-ponte-vecchio,WRF CIMA,63
+dpc-ponte-vecchio,WRF ItaliaMeteo,56
+dpc-punta-stilo,BOLAM,27
+dpc-punta-stilo,MOLOCH,26
+dpc-punta-stilo,WRF CIMA,42
+dpc-punta-stilo,WRF ItaliaMeteo,67
+dpc-reggio-calabria,BOLAM,0
+dpc-reggio-calabria,MOLOCH,32
+dpc-reggio-calabria,WRF CIMA,18
+dpc-reggio-calabria,WRF ItaliaMeteo,45
+dpc-reggio-calabria-catona,BOLAM,20
+dpc-reggio-calabria-catona,MOLOCH,2
+dpc-reggio-calabria-catona,WRF CIMA,11
+dpc-reggio-calabria-catona,WRF ItaliaMeteo,1
+dpc-rizziconi,BOLAM,113
+dpc-rizziconi,MOLOCH,111
+dpc-rizziconi,WRF CIMA,113
+dpc-rizziconi,WRF ItaliaMeteo,100
+dpc-roccaforte-del-greco,BOLAM,893
+dpc-roccaforte-del-greco,MOLOCH,631
+dpc-roccaforte-del-greco,WRF CIMA,515
+dpc-roccaforte-del-greco,WRF ItaliaMeteo,635
+dpc-roccella-jonica,BOLAM,99
+dpc-roccella-jonica,MOLOCH,12
+dpc-roccella-jonica,WRF CIMA,19
+dpc-roccella-jonica,WRF ItaliaMeteo,5
+dpc-roccelletta,BOLAM,197
+dpc-roccelletta,MOLOCH,106
+dpc-roccelletta,WRF CIMA,110
+dpc-roccelletta,WRF ItaliaMeteo,93
+dpc-rogliano,BOLAM,810
+dpc-rogliano,MOLOCH,592
+dpc-rogliano,WRF CIMA,563
+dpc-rogliano,WRF ItaliaMeteo,598
+dpc-rosario,BOLAM,250
+dpc-rosario,MOLOCH,574
+dpc-rosario,WRF CIMA,618
+dpc-rosario,WRF ItaliaMeteo,533
+dpc-rosarno,BOLAM,57
+dpc-rosarno,MOLOCH,21
+dpc-rosarno,WRF CIMA,24
+dpc-rosarno,WRF ItaliaMeteo,24
+dpc-roseto-capo-spulico,BOLAM,51
+dpc-roseto-capo-spulico,MOLOCH,244
+dpc-roseto-capo-spulico,WRF CIMA,180
+dpc-roseto-capo-spulico,WRF ItaliaMeteo,262
+dpc-s-agata-del-bianco,BOLAM,326
+dpc-s-agata-del-bianco,MOLOCH,516
+dpc-s-agata-del-bianco,WRF CIMA,431
+dpc-s-agata-del-bianco,WRF ItaliaMeteo,475
+dpc-s-caterina-dello-ionio,BOLAM,515
+dpc-s-caterina-dello-ionio,MOLOCH,393
+dpc-s-caterina-dello-ionio,WRF CIMA,295
+dpc-s-caterina-dello-ionio,WRF ItaliaMeteo,326
+dpc-s-cristina-d-aspr,BOLAM,547
+dpc-s-cristina-d-aspr,MOLOCH,410
+dpc-s-cristina-d-aspr,WRF CIMA,515
+dpc-s-cristina-d-aspr,WRF ItaliaMeteo,594
+dpc-s-mauro-marchesato,BOLAM,202
+dpc-s-mauro-marchesato,MOLOCH,235
+dpc-s-mauro-marchesato,WRF CIMA,204
+dpc-s-mauro-marchesato,WRF ItaliaMeteo,235
+dpc-s-nicola-dell-alto,BOLAM,278
+dpc-s-nicola-dell-alto,MOLOCH,400
+dpc-s-nicola-dell-alto,WRF CIMA,414
+dpc-s-nicola-dell-alto,WRF ItaliaMeteo,476
+dpc-s-pietro-di-carida,BOLAM,184
+dpc-s-pietro-di-carida,MOLOCH,142
+dpc-s-pietro-di-carida,WRF CIMA,145
+dpc-s-pietro-di-carida,WRF ItaliaMeteo,150
+dpc-s-pietro-in-guarano,BOLAM,357
+dpc-s-pietro-in-guarano,MOLOCH,491
+dpc-s-pietro-in-guarano,WRF CIMA,405
+dpc-s-pietro-in-guarano,WRF ItaliaMeteo,405
+dpc-s-sosti,BOLAM,1001
+dpc-s-sosti,MOLOCH,572
+dpc-s-sosti,WRF CIMA,546
+dpc-s-sosti,WRF ItaliaMeteo,502
+dpc-salica,BOLAM,87
+dpc-salica,MOLOCH,131
+dpc-salica,WRF CIMA,98
+dpc-salica,WRF ItaliaMeteo,96
+dpc-san-luca,BOLAM,296
+dpc-san-luca,MOLOCH,151
+dpc-san-luca,WRF CIMA,151
+dpc-san-luca,WRF ItaliaMeteo,157
+dpc-san-nicola-da-crissa,BOLAM,704
+dpc-san-nicola-da-crissa,MOLOCH,635
+dpc-san-nicola-da-crissa,WRF CIMA,531
+dpc-san-nicola-da-crissa,WRF ItaliaMeteo,588
+dpc-sant-alessio-in-aspromonte,BOLAM,872
+dpc-sant-alessio-in-aspromonte,MOLOCH,834
+dpc-sant-alessio-in-aspromonte,WRF CIMA,760
+dpc-sant-alessio-in-aspromonte,WRF ItaliaMeteo,778
+dpc-sant-elia-jano,BOLAM,449
+dpc-sant-elia-jano,MOLOCH,588
+dpc-sant-elia-jano,WRF CIMA,672
+dpc-sant-elia-jano,WRF ItaliaMeteo,631
+dpc-satriano,BOLAM,194
+dpc-satriano,MOLOCH,21
+dpc-satriano,WRF CIMA,40
+dpc-satriano,WRF ItaliaMeteo,36
+dpc-savelli,BOLAM,990
+dpc-savelli,MOLOCH,869
+dpc-savelli,WRF CIMA,934
+dpc-savelli,WRF ItaliaMeteo,836
+dpc-scilla,BOLAM,13
+dpc-scilla,MOLOCH,0
+dpc-scilla,WRF CIMA,9
+dpc-scilla,WRF ItaliaMeteo,0
+dpc-scilla-piano-delle-aquile,BOLAM,872
+dpc-scilla-piano-delle-aquile,MOLOCH,600
+dpc-scilla-piano-delle-aquile,WRF CIMA,499
+dpc-scilla-piano-delle-aquile,WRF ItaliaMeteo,599
+dpc-scilla-solano,BOLAM,300
+dpc-scilla-solano,MOLOCH,270
+dpc-scilla-solano,WRF CIMA,284
+dpc-scilla-solano,WRF ItaliaMeteo,368
+dpc-scilla-tagli,BOLAM,872
+dpc-scilla-tagli,MOLOCH,600
+dpc-scilla-tagli,WRF CIMA,499
+dpc-scilla-tagli,WRF ItaliaMeteo,599
+dpc-scilla-villaggio-del-pino,BOLAM,304
+dpc-scilla-villaggio-del-pino,MOLOCH,510
+dpc-scilla-villaggio-del-pino,WRF CIMA,321
+dpc-scilla-villaggio-del-pino,WRF ItaliaMeteo,579
+dpc-sellia-superiore,BOLAM,449
+dpc-sellia-superiore,MOLOCH,382
+dpc-sellia-superiore,WRF CIMA,437
+dpc-sellia-superiore,WRF ItaliaMeteo,382
+dpc-serra-s-bruno,BOLAM,968
+dpc-serra-s-bruno,MOLOCH,835
+dpc-serra-s-bruno,WRF CIMA,858
+dpc-serra-s-bruno,WRF ItaliaMeteo,830
+dpc-serrarossa,BOLAM,78
+dpc-serrarossa,MOLOCH,53
+dpc-serrarossa,WRF CIMA,52
+dpc-serrarossa,WRF ItaliaMeteo,62
+dpc-sibari,BOLAM,2
+dpc-sibari,MOLOCH,3
+dpc-sibari,WRF CIMA,1
+dpc-sibari,WRF ItaliaMeteo,3
+dpc-sinopoli,BOLAM,458
+dpc-sinopoli,MOLOCH,616
+dpc-sinopoli,WRF CIMA,524
+dpc-sinopoli,WRF ItaliaMeteo,532
+dpc-soverato-marina,BOLAM,194
+dpc-soverato-marina,MOLOCH,21
+dpc-soverato-marina,WRF CIMA,40
+dpc-soverato-marina,WRF ItaliaMeteo,36
+dpc-soveria-simeri,BOLAM,440
+dpc-soveria-simeri,MOLOCH,334
+dpc-soveria-simeri,WRF CIMA,362
+dpc-soveria-simeri,WRF ItaliaMeteo,342
+dpc-spadola,BOLAM,704
+dpc-spadola,MOLOCH,784
+dpc-spadola,WRF CIMA,774
+dpc-spadola,WRF ItaliaMeteo,777
+dpc-spineto,BOLAM,1381
+dpc-spineto,MOLOCH,1390
+dpc-spineto,WRF CIMA,1357
+dpc-spineto,WRF ItaliaMeteo,1345
+dpc-staiti,BOLAM,193
+dpc-staiti,MOLOCH,440
+dpc-staiti,WRF CIMA,331
+dpc-staiti,WRF ItaliaMeteo,464
+dpc-stignano,BOLAM,124
+dpc-stignano,MOLOCH,252
+dpc-stignano,WRF CIMA,317
+dpc-stignano,WRF ItaliaMeteo,283
+dpc-tarsia,BOLAM,206
+dpc-tarsia,MOLOCH,161
+dpc-tarsia,WRF CIMA,215
+dpc-tarsia,WRF ItaliaMeteo,186
+dpc-taurianova,BOLAM,185
+dpc-taurianova,MOLOCH,228
+dpc-taurianova,WRF CIMA,218
+dpc-taurianova,WRF ItaliaMeteo,238
+dpc-tiriolo,BOLAM,294
+dpc-tiriolo,MOLOCH,473
+dpc-tiriolo,WRF CIMA,449
+dpc-tiriolo,WRF ItaliaMeteo,506
+dpc-torano-scalo,BOLAM,204
+dpc-torano-scalo,MOLOCH,181
+dpc-torano-scalo,WRF CIMA,151
+dpc-torano-scalo,WRF ItaliaMeteo,151
+dpc-tortora,BOLAM,80
+dpc-tortora,MOLOCH,115
+dpc-tortora,WRF CIMA,33
+dpc-tortora,WRF ItaliaMeteo,181
+dpc-vibo-valentia,BOLAM,162
+dpc-vibo-valentia,MOLOCH,437
+dpc-vibo-valentia,WRF CIMA,399
+dpc-vibo-valentia,WRF ItaliaMeteo,436
+dpc-vibo-valentia-longobardi,BOLAM,162
+dpc-vibo-valentia-longobardi,MOLOCH,296
+dpc-vibo-valentia-longobardi,WRF CIMA,307
+dpc-vibo-valentia-longobardi,WRF ItaliaMeteo,360
+dpc-villapiana,BOLAM,14
+dpc-villapiana,MOLOCH,9
+dpc-villapiana,WRF CIMA,4
+dpc-villapiana,WRF ItaliaMeteo,4
+dpc-zungri,BOLAM,449
+dpc-zungri,MOLOCH,517
+dpc-zungri,WRF CIMA,463
+dpc-zungri,WRF ItaliaMeteo,526
+meteostat-16337,BOLAM,286
+meteostat-16337,MOLOCH,186
+meteostat-16337,WRF CIMA,316
+meteostat-16337,WRF ItaliaMeteo,94
+meteostat-16344,BOLAM,1125
+meteostat-16344,MOLOCH,1600
+meteostat-16344,WRF CIMA,1579
+meteostat-16344,WRF ItaliaMeteo,1590
+meteostat-16350,BOLAM,127
+meteostat-16350,MOLOCH,167
+meteostat-16350,WRF CIMA,161
+meteostat-16350,WRF ItaliaMeteo,161
+meteostat-16362,BOLAM,71
+meteostat-16362,MOLOCH,8
+meteostat-16362,WRF CIMA,6
+meteostat-16362,WRF ItaliaMeteo,8
+meteostat-16364,BOLAM,666
+meteostat-16364,MOLOCH,887
+meteostat-16364,WRF CIMA,857
+meteostat-16364,WRF ItaliaMeteo,836
+meteostat-16420,BOLAM,20
+meteostat-16420,MOLOCH,3
+meteostat-16420,WRF CIMA,1
+meteostat-16420,WRF ItaliaMeteo,6
+meteostat-16422,BOLAM,0
+meteostat-16422,MOLOCH,28
+meteostat-16422,WRF CIMA,13
+meteostat-16422,WRF ItaliaMeteo,27
+mnw-bsl049,BOLAM,758
+mnw-bsl049,MOLOCH,439
+mnw-bsl049,WRF CIMA,578
+mnw-bsl049,WRF ItaliaMeteo,488
+mnw-clb002,BOLAM,381
+mnw-clb002,MOLOCH,158
+mnw-clb002,WRF CIMA,180
+mnw-clb002,WRF ItaliaMeteo,164
+mnw-clb012,BOLAM,368
+mnw-clb012,MOLOCH,165
+mnw-clb012,WRF CIMA,122
+mnw-clb012,WRF ItaliaMeteo,163
+mnw-clb020,BOLAM,160
+mnw-clb020,MOLOCH,204
+mnw-clb020,WRF CIMA,192
+mnw-clb020,WRF ItaliaMeteo,207
+mnw-clb032,BOLAM,319
+mnw-clb032,MOLOCH,263
+mnw-clb032,WRF CIMA,216
+mnw-clb032,WRF ItaliaMeteo,284
+mnw-clb042,BOLAM,791
+mnw-clb042,MOLOCH,339
+mnw-clb042,WRF CIMA,343
+mnw-clb042,WRF ItaliaMeteo,329
+mnw-clb211,BOLAM,153
+mnw-clb211,MOLOCH,174
+mnw-clb211,WRF CIMA,207
+mnw-clb211,WRF ItaliaMeteo,285
+mnw-clb215,BOLAM,698
+mnw-clb215,MOLOCH,616
+mnw-clb215,WRF CIMA,723
+mnw-clb215,WRF ItaliaMeteo,552
+mnw-clb232,BOLAM,357
+mnw-clb232,MOLOCH,394
+mnw-clb232,WRF CIMA,373
+mnw-clb232,WRF ItaliaMeteo,351
+mnw-clb233,BOLAM,543
+mnw-clb233,MOLOCH,430
+mnw-clb233,WRF CIMA,379
+mnw-clb233,WRF ItaliaMeteo,377
+mnw-clb235,BOLAM,357
+mnw-clb235,MOLOCH,264
+mnw-clb235,WRF CIMA,255
+mnw-clb235,WRF ItaliaMeteo,247
+mnw-clb236,BOLAM,357
+mnw-clb236,MOLOCH,204
+mnw-clb236,WRF CIMA,200
+mnw-clb236,WRF ItaliaMeteo,213
+mnw-clb241,BOLAM,449
+mnw-clb241,MOLOCH,588
+mnw-clb241,WRF CIMA,672
+mnw-clb241,WRF ItaliaMeteo,631
+mnw-clb248,BOLAM,449
+mnw-clb248,MOLOCH,372
+mnw-clb248,WRF CIMA,389
+mnw-clb248,WRF ItaliaMeteo,377
+mnw-clb249,BOLAM,740
+mnw-clb249,MOLOCH,826
+mnw-clb249,WRF CIMA,1007
+mnw-clb249,WRF ItaliaMeteo,930
+mnw-clb250,BOLAM,357
+mnw-clb250,MOLOCH,178
+mnw-clb250,WRF CIMA,181
+mnw-clb250,WRF ItaliaMeteo,192
+mnw-clb251,BOLAM,293
+mnw-clb251,MOLOCH,270
+mnw-clb251,WRF CIMA,264
+mnw-clb251,WRF ItaliaMeteo,217
+mnw-clb305,BOLAM,194
+mnw-clb305,MOLOCH,14
+mnw-clb305,WRF CIMA,26
+mnw-clb305,WRF ItaliaMeteo,24
+mnw-clb307,BOLAM,850
+mnw-clb307,MOLOCH,764
+mnw-clb307,WRF CIMA,864
+mnw-clb307,WRF ItaliaMeteo,760
+mnw-clb308,BOLAM,57
+mnw-clb308,MOLOCH,37
+mnw-clb308,WRF CIMA,46
+mnw-clb308,WRF ItaliaMeteo,46
+mnw-clb310,BOLAM,668
+mnw-clb310,MOLOCH,727
+mnw-clb310,WRF CIMA,636
+mnw-clb310,WRF ItaliaMeteo,684
+mnw-clb311,BOLAM,357
+mnw-clb311,MOLOCH,338
+mnw-clb311,WRF CIMA,317
+mnw-clb311,WRF ItaliaMeteo,302
+mnw-clb312,BOLAM,1523
+mnw-clb312,MOLOCH,1379
+mnw-clb312,WRF CIMA,1293
+mnw-clb312,WRF ItaliaMeteo,1402
+mnw-clb323,BOLAM,71
+mnw-clb323,MOLOCH,14
+mnw-clb323,WRF CIMA,13
+mnw-clb323,WRF ItaliaMeteo,15
+mnw-clb326,BOLAM,163
+mnw-clb326,MOLOCH,259
+mnw-clb326,WRF CIMA,231
+mnw-clb326,WRF ItaliaMeteo,321
+mnw-clb331,BOLAM,263
+mnw-clb331,MOLOCH,420
+mnw-clb331,WRF CIMA,438
+mnw-clb331,WRF ItaliaMeteo,450
+mnw-clb340,BOLAM,1125
+mnw-clb340,MOLOCH,612
+mnw-clb340,WRF CIMA,499
+mnw-clb340,WRF ItaliaMeteo,566
+mnw-clb341,BOLAM,888
+mnw-clb341,MOLOCH,648
+mnw-clb341,WRF CIMA,601
+mnw-clb341,WRF ItaliaMeteo,584
+mnw-clb343,BOLAM,74
+mnw-clb343,MOLOCH,182
+mnw-clb343,WRF CIMA,161
+mnw-clb343,WRF ItaliaMeteo,160
+mnw-clb345,BOLAM,160
+mnw-clb345,MOLOCH,111
+mnw-clb345,WRF CIMA,87
+mnw-clb345,WRF ItaliaMeteo,92
+mnw-clb347,BOLAM,368
+mnw-clb347,MOLOCH,489
+mnw-clb347,WRF CIMA,444
+mnw-clb347,WRF ItaliaMeteo,592
+mnw-clb432,BOLAM,547
+mnw-clb432,MOLOCH,309
+mnw-clb432,WRF CIMA,385
+mnw-clb432,WRF ItaliaMeteo,367
+mnw-scl036,BOLAM,29
+mnw-scl036,MOLOCH,0
+mnw-scl036,WRF CIMA,2
+mnw-scl036,WRF ItaliaMeteo,0
